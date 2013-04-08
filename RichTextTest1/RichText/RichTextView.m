@@ -94,7 +94,7 @@
                 {
                     if (upX >= MAX_WIDTH)
                     {
-                        upY = upY + KFacialSizeHeight;
+                        upY = upY + KFacialSizeHeight + 6;
                         upX = 0;
                         X = MAX_WIDTH;
                         Y = upY;
@@ -125,7 +125,7 @@
                         NSString *temp = [str substringWithRange:NSMakeRange(j, 1)];
                         if (upX >= MAX_WIDTH)
                         {
-                            upY = upY + KFacialSizeHeight;
+                            upY = upY + KFacialSizeHeight + 6;
                             upX = 0;
                             X = MAX_WIDTH;
                             Y = upY;

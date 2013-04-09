@@ -201,7 +201,7 @@
 		4D1394C7170AD1C900B07C50 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D1394C5170AD1C900B07C50 /* MainStoryboard.storyboard */; };
 		4D1394CA170AD1C900B07C50 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1394C9170AD1C900B07C50 /* ViewController.m */; };
 		4D1394D1170B092200B07C50 /* 001.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D1394D0170B092200B07C50 /* 001.png */; };
-		4D59570A1712C82A00ABAADB /* ReadMe.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4D5957091712C82A00ABAADB /* ReadMe.strings */; };
+		4D59570A1712C82A00ABAADB /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4D5957091712C82A00ABAADB /* ReadMe.txt */; };
 		4D7BC79917125EEF00FF8461 /* RichTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D7BC79817125EEF00FF8461 /* RichTextView.m */; };
 /* End PBXBuildFile section */
 
@@ -408,7 +408,7 @@
 		4D1394C8170AD1C900B07C50 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4D1394C9170AD1C900B07C50 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4D1394D0170B092200B07C50 /* 001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 001.png; path = "Support files/001.png"; sourceTree = "<group>"; };
-		4D5957091712C82A00ABAADB /* ReadMe.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = ReadMe.strings; sourceTree = "<group>"; };
+		4D5957091712C82A00ABAADB /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		4D7BC79717125EEF00FF8461 /* RichTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RichTextView.h; path = RichText/RichTextView.h; sourceTree = "<group>"; };
 		4D7BC79817125EEF00FF8461 /* RichTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RichTextView.m; path = RichText/RichTextView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -666,7 +666,7 @@
 				4D1394C8170AD1C900B07C50 /* ViewController.h */,
 				4D1394C9170AD1C900B07C50 /* ViewController.m */,
 				4D1394B4170AD1C900B07C50 /* Supporting Files */,
-				4D5957091712C82A00ABAADB /* ReadMe.strings */,
+				4D5957091712C82A00ABAADB /* ReadMe.txt */,
 			);
 			path = RichTextTest1;
 			sourceTree = "<group>";
@@ -931,7 +931,7 @@
 				4D07435017114D6B00CEAE40 /* backFace@2x.png in Resources */,
 				4D07435117114D6B00CEAE40 /* backFaceSelect.png in Resources */,
 				4D07435217114D6B00CEAE40 /* backFaceSelect@2x.png in Resources */,
-				4D59570A1712C82A00ABAADB /* ReadMe.strings in Resources */,
+				4D59570A1712C82A00ABAADB /* ReadMe.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

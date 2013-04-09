@@ -190,7 +190,7 @@ Boolean showFaceBoard = FALSE;
 	
 	keyboardToolbar.alpha = 0.0;
 	keyboardToolbar.frame = CGRectMake(endFrame.origin.x, //endCentre.x - (keyboardBounds.size.width/2),
-									   endFrame.origin.y - statusBarHeight + keyboardToolbar.frame.size.height, //endCentre.y - (keyboardBounds.size.height/2) - keyboardToolbar.frame.size.height,
+									   endFrame.origin.y - statusBarHeight - keyboardToolbar.frame.size.height, //endCentre.y - (keyboardBounds.size.height/2) - keyboardToolbar.frame.size.height,
 									   keyboardToolbar.frame.size.width,
 									   keyboardToolbar.frame.size.height);
 	
@@ -216,7 +216,7 @@ Boolean showFaceBoard = FALSE;
 	[UIView setAnimationDuration:animationDuration];
     
     keyboardToolbar.frame = CGRectMake(endFrame.origin.x, //endCentre.x - (keyboardBounds.size.width/2),
-									   endFrame.origin.y - statusBarHeight + keyboardToolbar.frame.size.height, //endCentre.y - (keyboardBounds.size.height/2) - keyboardToolbar.frame.size.height,
+									   endFrame.origin.y - statusBarHeight - keyboardToolbar.frame.size.height, //endCentre.y - (keyboardBounds.size.height/2) - keyboardToolbar.frame.size.height,
 									   keyboardToolbar.frame.size.width,
 									   keyboardToolbar.frame.size.height);
 	

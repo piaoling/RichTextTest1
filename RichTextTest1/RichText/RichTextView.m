@@ -148,6 +148,7 @@
             }
         }
         fon = nil;
+        Y = Y + KFacialSizeHeight + 8;
         self.frame = CGRectMake(10, 8, X, Y); //@ 需要将该view的尺寸记下，方便以后使用
         NSLog(@"%.1f %.1f", X, Y);
     }

@@ -112,11 +112,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "RichTextTest1/RichText/RichTextView.m"
-         timestampString = "387096823.906377"
+         timestampString = "387269581.760612"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "160"
-         endingLineNumber = "160"
+         startingLineNumber = "161"
+         endingLineNumber = "161"
          landmarkName = "-createFaceArray:"
          landmarkType = "5">
       </FileBreakpoint>
